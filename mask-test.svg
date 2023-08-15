@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="994px" viewBox="0 0 1920 994" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>Group 30</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.4929888%" y1="13.369391%" x2="79.2568109%" y2="74.9629407%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.0727163462" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.15722656%" y1="11.3053385%" x2="95.2099609%" y2="79.7526042%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.07" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page_New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-">
+            <g id="Group-30" transform="translate(-302.000000, -1116.000000)">
+                <g id="Group-8">
+                    <path d="M301.230358,312.221143 L1933.70246,305 C2259.57875,602.18512 2342.98589,931.412043 2183.92388,1292.68077 C1945.33086,1834.58386 1577.23455,1368.86396 1338.92513,1919.47661 C1180.05219,2286.5517 847.804981,2342.22215 342.183493,2086.48794 L301.230358,312.221143 Z" id="wave" fill="#3c87c7" transform="translate(1281.706926, 1274.500000) scale(-1, 1) rotate(20.000000) translate(-1281.706926, -1274.500000) "></path>
+                    <path d="M301,313.651593 L1933.4721,306.430451 C2259.34839,603.615571 2342.75553,932.842494 2183.69352,1294.11122 C1945.10051,1836.01431 1577.00419,1370.29441 1338.69478,1920.90706 C1179.82184,2287.98215 847.574623,2343.6526 341.953135,2087.91839 L301,313.651593 Z" id="wave" stroke="#3c87c7" transform="translate(1281.476567, 1275.930451) scale(-1, 1) rotate(23.000000) translate(-1281.476567, -1275.930451) "></path>
+                    <path d="M301,313.651593 L1933.4721,306.430451 C2259.34839,603.615571 2342.75553,932.842494 2183.69352,1294.11122 C1945.10051,1836.01431 1577.00419,1370.29441 1338.69478,1920.90706 C1179.82184,2287.98215 847.574623,2343.6526 341.953135,2087.91839 L301,313.651593 Z" id="wave" stroke="#3c87c7" transform="translate(1281.476567, 1275.930451) scale(-1, 1) rotate(17.000000) translate(-1281.476567, -1275.930451) "></path>
+                </g>
+                <g id="Group-8-Copy-2" opacity="0.302383" transform="translate(377.000000, 1376.000000)" stroke="url(#linearGradient-1)">
+                    <circle id="Oval" cx="195" cy="195" r="195"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="185.25"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="175.5"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="165.75"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="156"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="146.25"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="136.5"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="126.75"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="117"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="107.25"></circle>
+                    <circle id="Oval" cx="195" cy="195" r="97.5"></circle>
+                </g>
+                <g id="Group-8-Copy-3" opacity="0.302383" transform="translate(592.000000, 1597.000000)" stroke="url(#linearGradient-2)">
+                    <circle id="Oval" cx="120" cy="120" r="120"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="114"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="108"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="102"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="96"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="90"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="84"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="78"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="72"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="66"></circle>
+                    <circle id="Oval" cx="120" cy="120" r="60"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
